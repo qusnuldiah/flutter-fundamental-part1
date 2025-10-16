@@ -3,6 +3,7 @@ import 'package:hello_world/basic_widgets/text_widget.dart';
 import 'package:hello_world/basic_widgets/image_widget.dart';
 import 'package:hello_world/basic_widgets/loading_cupertino.dart';
 import 'package:hello_world/basic_widgets/fab_widget.dart';
+import 'package:hello_world/basic_widgets/dialog_widget.dart';
 
 void main() {
   runApp(const MyApp());
@@ -51,20 +52,22 @@ class _MyHomePageState extends State<MyHomePage> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             crossAxisAlignment: CrossAxisAlignment.center,
-            children: const [
-              MyTextWidget(),
-              SizedBox(height: 20),
-              MyImageWidget(),
-              SizedBox(height: 20),
-              LoadingCupertino(),
-              SizedBox(height: 20),
-              Text(
+            children: [
+              const MyTextWidget(),
+              const SizedBox(height: 20),
+              const MyImageWidget(),
+              const SizedBox(height: 20),
+              const LoadingCupertino(),
+              const SizedBox(height: 20),
+              MyLayout(),
+              const SizedBox(height: 20),
+              const Text(
                 'You have pushed the button this many times:',
                 style: TextStyle(fontSize: 16),
                 textAlign: TextAlign.center,
               ),
-              SizedBox(height: 20),
-              MyFabWidget(),
+              const SizedBox(height: 20),
+              const MyFabWidget(),
             ],
           ),
         ),
