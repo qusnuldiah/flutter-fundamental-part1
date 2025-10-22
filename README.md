@@ -10,6 +10,7 @@ A new Flutter project.
 ## disusun_oleh:
   - nama: Qusnul Diah Mawanti
   - nim: 2341760035
+  - kela: 3D
   - program_studi: D-IV Sistem Informasi Bisnis
   - jurusan: Teknologi Informasi
   - institusi: Politeknik Negeri Malang
@@ -157,13 +158,14 @@ A new Flutter project.
 ---
 
 # referensi:
-  - "https://jti-polinema.github.io/flutter-codelab/01-pengenalan/"
-  - "https://developer.android.com/codelabs/basic-android-kotlin-compose-connect-device?hl=id"
-  - "https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0"
-  - "https://github.com/settings/tokens/new"
+  - https://jti-polinema.github.io/flutter-codelab/01-pengenalan/
+  - https://developer.android.com/codelabs/basic-android-kotlin-compose-connect-device?hl=id
+  - https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0
+  - https://github.com/settings/tokens/new
 
 ---
 
 copyright: "© 2025 Jurusan Teknologi Informasi – Politeknik Negeri Malang"
+
 
 
