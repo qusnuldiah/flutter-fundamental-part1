@@ -8,26 +8,26 @@ A new Flutter project.
 # Jobsheet 4 – Pemrograman Mobile
 
 # disusun_oleh:
-  nama: Qusnul Diah Mawanti
-  nim: 2341760035
-  program_studi: D-IV Sistem Informasi Bisnis
-  jurusan: Teknologi Informasi
-  institusi: Politeknik Negeri Malang
-  tahun: 2025
+  - nama: Qusnul Diah Mawanti
+  - nim: 2341760035
+  - program_studi: D-IV Sistem Informasi Bisnis
+  - jurusan: Teknologi Informasi
+  - institusi: Politeknik Negeri Malang
+  - tahun: 2025
 
 ---
 
 # praktikum_1:
   judul: Membuat Project Flutter Baru
   langkah_langkah:
-    - Buka VS Code, tekan Ctrl + Shift + P, lalu ketik "Flutter: New Application Project".
+  - Buka VS Code, tekan Ctrl + Shift + P, lalu ketik "Flutter: New Application Project".
     <img width="477" height="163" alt="image" src="https://github.com/user-attachments/assets/71c64510-54ea-4f3a-9b51-86b66717d8e8" />
-    - Pilih folder penyimpanan project (disarankan di dokumen atau desktop).
-    - Buat project dengan nama hello_world (huruf kecil semua, tanpa spasi).
+  - Pilih folder penyimpanan project (disarankan di dokumen atau desktop).
+  - Buat project dengan nama hello_world (huruf kecil semua, tanpa spasi).
     <img width="588" height="97" alt="image" src="https://github.com/user-attachments/assets/74aa9f19-effd-44bb-b3dd-a8acffb6e6ca" />
-    - Tunggu hingga muncul pesan "Your Flutter Project is ready!".
-  hasil_screenshot:
-  <img width="940" height="492" alt="image" src="https://github.com/user-attachments/assets/1f343ede-79b6-4d2a-a844-8a1ac382aeed" />
+  - Tunggu hingga muncul pesan "Your Flutter Project is ready!".
+    hasil_screenshot:
+    <img width="940" height="492" alt="image" src="https://github.com/user-attachments/assets/1f343ede-79b6-4d2a-a844-8a1ac382aeed" />
 
 
 ---
@@ -191,3 +191,4 @@ A new Flutter project.
 ---
 
 copyright: "© 2025 Jurusan Teknologi Informasi – Politeknik Negeri Malang"
+
