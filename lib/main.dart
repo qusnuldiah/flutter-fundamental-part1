@@ -4,6 +4,7 @@ import 'package:hello_world/basic_widgets/image_widget.dart';
 import 'package:hello_world/basic_widgets/loading_cupertino.dart';
 import 'package:hello_world/basic_widgets/fab_widget.dart';
 import 'package:hello_world/basic_widgets/dialog_widget.dart';
+import 'package:hello_world/basic_widgets/textfield_widget.dart';
 
 void main() {
   runApp(const MyApp());
@@ -60,6 +61,8 @@ class _MyHomePageState extends State<MyHomePage> {
               const LoadingCupertino(),
               const SizedBox(height: 20),
               MyLayout(),
+              const SizedBox(height: 20),
+              MyTextFieldWidget(),
               const SizedBox(height: 20),
               const Text(
                 'You have pushed the button this many times:',
