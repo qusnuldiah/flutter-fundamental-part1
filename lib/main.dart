@@ -5,6 +5,7 @@ import 'package:hello_world/basic_widgets/loading_cupertino.dart';
 import 'package:hello_world/basic_widgets/fab_widget.dart';
 import 'package:hello_world/basic_widgets/dialog_widget.dart';
 import 'package:hello_world/basic_widgets/textfield_widget.dart';
+import 'package:hello_world/basic_widgets/date_time_picker.dart';
 
 void main() {
   runApp(const MyApp());
@@ -71,6 +72,8 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
               const SizedBox(height: 20),
               const MyFabWidget(),
+              const SizedBox(height: 20),
+              DateTimePickerWidget(),
             ],
           ),
         ),
