@@ -37,13 +37,17 @@ A new Flutter project.
   2. Scroll ke bawah → buka Tentang perangkat (About device).
   3. Ketuk Versi perangkat lunak (Software Version) sebanyak 7 kali sampai muncul pesan:
       “Anda sekarang adalah pengembang!”
+     
       <img width="299" height="671" alt="image" src="https://github.com/user-attachments/assets/9fdad748-f4fa-4cee-96dd-d3576f93a29e" />
+      
   5. Kembali ke menu utama Pengaturan.
   6. Buka Pengaturan tambahan (Additional settings) → Opsi pengembang (Developer options).
   7. Aktifkan toggle Opsi pengembang.
+     
       <img width="291" height="651" alt="image" src="https://github.com/user-attachments/assets/19864ecd-cbd4-4877-94ec-5398ad24d287" />
-  8. Scroll ke bawah dan aktifkan USB Debugging.
-  9. Jika muncul peringatan, tekan Ok untuk mengonfirmasi.
+    
+  9. Scroll ke bawah dan aktifkan USB Debugging.
+  10. Jika muncul peringatan, tekan Ok untuk mengonfirmasi.
       <img width="255" height="571" alt="image" src="https://github.com/user-attachments/assets/d1684c3f-03ab-4d76-8f98-450a9a39533e" />
 
 ## Langkah 2: Hubungkan HP ke Laptop via Kabel USB
@@ -51,22 +55,30 @@ A new Flutter project.
   2. HP akan menampilkan notifikasi:
      “Izinkan debugging USB dari komputer ini?”
      Centang Always allow from this computer lalu ketuk Izinkan.
+     
       <img width="274" height="614" alt="image" src="https://github.com/user-attachments/assets/2c02b0ed-f270-4f8f-93f3-e3df52cbace8" />
-  3. Jika koneksi berhasil, di laptop kamu bisa mengetik di terminal Android Studio atau VS Code.
+      
+  4. Jika koneksi berhasil, di laptop kamu bisa mengetik di terminal Android Studio atau VS Code.
+     
       <img width="1025" height="259" alt="image" src="https://github.com/user-attachments/assets/a8423353-703e-4a51-9f12-a2cdf012fde6" />
 
 ## Langkah 3: Jalankan Aplikasi Flutter di Android Studio
   1. Buka Android Studio.
   2. Buka project Flutter (misalnya hello_world).
+     
       <img width="940" height="467" alt="image" src="https://github.com/user-attachments/assets/ae4e3da2-8687-4462-a066-89662c127275" />
-  3. Tunggu sampai project selesai di-build (pastikan dependencies sudah lengkap).
-  4. Di toolbar atas Android Studio, cari menu dropdown Device Selector.
+  4. Tunggu sampai project selesai di-build (pastikan dependencies sudah lengkap).
+  5. Di toolbar atas Android Studio, cari menu dropdown Device Selector.
+     
       <img width="460" height="254" alt="image" src="https://github.com/user-attachments/assets/8032ac65-ac07-4518-93ae-2e4edb96401a" />
-  5. Pastikan OPPO A77s muncul dan terpilih.
-  6. Klik tombol Run ▶️ (ikon segitiga hijau).
-  7. Tunggu proses build dan install aplikasi ke HP.
+
+  7. Pastikan OPPO A77s muncul dan terpilih.
+  8. Klik tombol Run ▶️ (ikon segitiga hijau).
+  9. Tunggu proses build dan install aplikasi ke HP.
+      
       <img width="932" height="466" alt="image" src="https://github.com/user-attachments/assets/40834e19-a03e-47ca-b975-e9f28c911ef7" />
-  8. <img width="350" height="784" alt="image" src="https://github.com/user-attachments/assets/016f3dc7-9236-40e8-a55e-1b38e0daf023" />
+      
+      <img width="350" height="784" alt="image" src="https://github.com/user-attachments/assets/016f3dc7-9236-40e8-a55e-1b38e0daf023" />
 
 
 ---
@@ -197,6 +209,7 @@ A new Flutter project.
 ---
 
 copyright: "© 2025 Jurusan Teknologi Informasi – Politeknik Negeri Malang"
+
 
 
 
