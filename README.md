@@ -48,6 +48,7 @@ A new Flutter project.
     
   9. Scroll ke bawah dan aktifkan USB Debugging.
   10. Jika muncul peringatan, tekan Ok untuk mengonfirmasi.
+      
       <img width="255" height="571" alt="image" src="https://github.com/user-attachments/assets/d1684c3f-03ab-4d76-8f98-450a9a39533e" />
 
 ## Langkah 2: Hubungkan HP ke Laptop via Kabel USB
@@ -67,6 +68,7 @@ A new Flutter project.
   2. Buka project Flutter (misalnya hello_world).
      
       <img width="940" height="467" alt="image" src="https://github.com/user-attachments/assets/ae4e3da2-8687-4462-a066-89662c127275" />
+      
   4. Tunggu sampai project selesai di-build (pastikan dependencies sudah lengkap).
   5. Di toolbar atas Android Studio, cari menu dropdown Device Selector.
      
@@ -209,6 +211,7 @@ A new Flutter project.
 ---
 
 copyright: "© 2025 Jurusan Teknologi Informasi – Politeknik Negeri Malang"
+
 
 
 
