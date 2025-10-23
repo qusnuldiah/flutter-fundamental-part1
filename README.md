@@ -39,12 +39,12 @@ A new Flutter project.
   3. Ketuk Versi perangkat lunak (Software Version) sebanyak 7 kali sampai muncul pesan:
      “Anda sekarang adalah pengembang!”
      <img width="299" height="671" alt="image" src="https://github.com/user-attachments/assets/9fdad748-f4fa-4cee-96dd-d3576f93a29e" />
-  4. Kembali ke menu utama Pengaturan.
-  5. Buka Pengaturan tambahan (Additional settings) → Opsi pengembang (Developer options).
-  6. Aktifkan toggle Opsi pengembang.
+  5. Kembali ke menu utama Pengaturan.
+  6. Buka Pengaturan tambahan (Additional settings) → Opsi pengembang (Developer options).
+  7. Aktifkan toggle Opsi pengembang.
      <img width="291" height="651" alt="image" src="https://github.com/user-attachments/assets/19864ecd-cbd4-4877-94ec-5398ad24d287" />
-  7. Scroll ke bawah dan aktifkan USB Debugging.
-  8. Jika muncul peringatan, tekan Ok untuk mengonfirmasi.
+  8. Scroll ke bawah dan aktifkan USB Debugging.
+  9. Jika muncul peringatan, tekan Ok untuk mengonfirmasi.
      <img width="255" height="571" alt="image" src="https://github.com/user-attachments/assets/d1684c3f-03ab-4d76-8f98-450a9a39533e" />
 
 ## Langkah 2: Hubungkan HP ke Laptop via Kabel USB
@@ -198,6 +198,7 @@ A new Flutter project.
 ---
 
 copyright: "© 2025 Jurusan Teknologi Informasi – Politeknik Negeri Malang"
+
 
 
 
